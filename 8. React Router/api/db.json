@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 2
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 3
+    },
+    {
+      "title": "Final Fantasy VII Stream",
+      "description": "Best Game 2020",
+      "id": 4
+    }
+  ]
+}
